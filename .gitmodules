@@ -1,0 +1,18 @@
+[submodule "MicroFPGA"]
+	path = MicroFPGA
+	url = git@github.com:mufpga/MicroFPGA.git
+[submodule "MicroFPGA-py"]
+	path = MicroFPGA-py
+	url = git@github.com:mufpga/MicroFPGA-py.git
+[submodule "MicroFPGA-mm"]
+	path = MicroFPGA-mm
+	url = git@github.com:mufpga/MicroFPGA-mm.git
+[submodule "MicroFPGA-java"]
+	path = MicroFPGA-java
+	url = git@github.com:mufpga/MicroFPGA-java.git
+[submodule "MicroFPGA-electronics"]
+	path = MicroFPGA-electronics
+	url = git@github.com:mufpga/MicroFPGA-electronics.git
+[submodule "mufpga.github.io"]
+	path = mufpga.github.io
+	url = git@github.com:mufpga/mufpga.github.io.git
